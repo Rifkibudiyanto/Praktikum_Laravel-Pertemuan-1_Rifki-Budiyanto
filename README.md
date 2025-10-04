@@ -1,4 +1,4 @@
-# Praktikum 1: Aplikasi PHP Dasar - Form Pendaftaran Event
+# Tugas Pertemuan 2
 
 Instalasi, Konfigurasi, dan Halaman Pertama Kita
 
