@@ -1,4 +1,4 @@
-# Tugas Pertemuan 2
+# Pertemuan Laravel 1 - (request -> root -> view -> response)
 
 Instalasi, Konfigurasi, dan Halaman Pertama Kita
 
